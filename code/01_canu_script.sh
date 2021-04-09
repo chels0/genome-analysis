@@ -9,5 +9,7 @@
 #SBATCH --mail-type=ALL
 #SBATCH --mail-user chelsea.ramsin.9601@student.uu.se
 
-module load bioinfo-tools
-module 
+module load bioinfo-tools canu/2.0
+
+canu -p assembly -d ../analysis/01_canu/ genomeSize=3m -pacbio ../raw_data/DNA_raw_data/ERR2028*
+ 
