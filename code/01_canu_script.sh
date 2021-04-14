@@ -11,5 +11,5 @@
 
 module load bioinfo-tools canu/2.0
 
-canu -p assembly -d ../analysis/01_canu/ genomeSize=3m -pacbio ../raw_data/DNA_raw_data/ERR2028*
+canu -p assembly -d analysis/01_canu/ genomeSize=3m -pacbio raw_data/DNA_raw_data/ERR2028*
  
