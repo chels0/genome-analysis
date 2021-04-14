@@ -1,1 +1,0 @@
-Genome assembly with canu
