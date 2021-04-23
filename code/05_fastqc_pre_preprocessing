@@ -1,0 +1,17 @@
+#!/bin/bash -l
+
+#SBATCH -A g2021012
+#SBATCH -M snowy
+#SBATCH -p core
+#SBATCH -n 2
+#SBATCH -t 00:15:00
+#SBATCH -J 05_fastqc_pre_preprocessing
+#SBATCH --mail-type=ALL
+#SBATCH --mail-user chelsea.ramsin.9601@student.uu.se
+
+module load bioinfo-tools
+module load FastQC
+
+fastqc /home/chels/genome-analysis/raw_data/RNA_raw_data ERR2036629_1.fastq.gz
+
+
