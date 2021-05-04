@@ -11,5 +11,5 @@
 
 module load bioinfo-tools FastQC
 
-fastqc -o ./ ../../06_trimmomatic/ERR2036629_P*
+fastqc ./ ../../06_trimmomatic/ERR2036629_P*
 

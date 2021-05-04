@@ -12,6 +12,6 @@
 module load bioinfo-tools
 module load FastQC
 
-fastqc /home/chels/genome-analysis/raw_data/RNA_raw_data ERR2036629_1.fastq.gz
+fastqc /home/chels/genome-analysis/raw_data/RNA_raw_data/ERR2036629_1.fastq.gz
 
 
