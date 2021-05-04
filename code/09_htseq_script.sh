@@ -12,7 +12,9 @@
 module load bioinfo-tools
 module load htseq/0.12.4
 module load samtools/1.9 
-#Måste göra ett sånt här skript för varje fil och ha med samtools index för att indexera skiten
+
+#One job for each bam file. Change accession number and condition (batch or cont) for each job
+#gff file should be without nucleotides
 
 #Path to file
 
