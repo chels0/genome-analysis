@@ -1,7 +1,5 @@
 tig00000001	Prodigal:2.6	CDS	1148970	1150091	.	+	0	ID=IOIGBGAE_01186;Name=glnB_1;gene=glnB_1;inference=ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P0A3F4;locus_tag=IOIGBGAE_01186;product=Nitrogen regulatory protein P-II
 tig00000001	Prodigal:2.6	CDS	1150401	1151699	.	+	0	ID=IOIGBGAE_01188;Name=nasA;gene=nasA;inference=ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P42432;locus_tag=IOIGBGAE_01188;product=Nitrate transporter
-tig00000001	Prodigal:2.6	CDS	1296652	1298292	.	+	0	ID=IOIGBGAE_01342;eC_number=3.6.4.12;Name=rep;gene=rep;inference=ab initio prediction:Prodigal:2.6,protein motif:HAMAP:MF_01920;locus_tag=IOIGBGAE_01342;product=ATP-dependent DNA helicase Rep
 tig00000001	Prodigal:2.6	CDS	1694817	1695098	.	-	0	ID=IOIGBGAE_01729;Name=cysO;gene=cysO;inference=ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P9WP33;locus_tag=IOIGBGAE_01729;product=Sulfur carrier protein CysO
 tig00000001	Prodigal:2.6	CDS	1905316	1907541	.	-	0	ID=IOIGBGAE_01922;eC_number=2.7.13.3;Name=kdpD;gene=kdpD;inference=ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P21865;locus_tag=IOIGBGAE_01922;product=Sensor protein KdpD
-tig00000001	Aragorn:1.2	tRNA	2011813	2011887	.	+	.	ID=IOIGBGAE_02034;inference=COORDINATES:profile:Aragorn:1.2;locus_tag=IOIGBGAE_02034;product=tRNA-Cys(gca)
 tig00000001	Prodigal:2.6	CDS	2332327	2332734	.	+	0	ID=IOIGBGAE_02384;Name=higB-1;gene=higB-1;inference=ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q9KMG5;locus_tag=IOIGBGAE_02384;product=Toxin HigB-1
