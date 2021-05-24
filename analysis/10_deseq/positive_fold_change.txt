@@ -1,0 +1,3 @@
+tig00000001	Prodigal:2.6	CDS	864941	866584	.	-	0	ID=IOIGBGAE_00900;eC_number=1.8.7.1;Name=sir;gene=sir;inference=ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P9WJ03;locus_tag=IOIGBGAE_00900;product=Sulfite reductase [ferredoxin]
+tig00000001	Prodigal:2.6	CDS	1940233	1940577	.	-	0	ID=IOIGBGAE_01955;Name=aprB;gene=aprB;inference=ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:T2G899;locus_tag=IOIGBGAE_01955;product=Adenylylsulfate reductase subunit beta
+tig00000001	Prodigal:2.6	CDS	1940561	1942294	.	-	0	ID=IOIGBGAE_01956;eC_number=1.8.99.2;Name=aprA;gene=aprA;inference=ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:T2G6Z9;locus_tag=IOIGBGAE_01956;product=Adenylylsulfate reductase subunit alpha
